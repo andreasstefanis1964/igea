@@ -1080,64 +1080,6 @@ a {
     letter-spacing: -1px;
   }
 }
-.cid-sIYOEHdkQN {
-  padding-top: 4.5rem;
-  padding-bottom: 4.5rem;
-  background: #ffffff;
-}
-.cid-sIYOEHdkQN .team-card {
-  margin-bottom: 2rem;
-  transition: all 0.3s;
-}
-.cid-sIYOEHdkQN .team-card:hover {
-  transform: translateY(-10px);
-}
-.cid-sIYOEHdkQN .card-wrap {
-  border-radius: 4px;
-}
-@media (max-width: 991px) {
-  .cid-sIYOEHdkQN .card-wrap {
-    margin-bottom: 2rem;
-  }
-}
-.cid-sIYOEHdkQN .card-wrap .image-wrap {
-  background: #ffffff;
-  padding-top: 30px;
-  padding-right: 30px;
-}
-.cid-sIYOEHdkQN .card-wrap .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 768px) {
-  .cid-sIYOEHdkQN .card-wrap .content-wrap {
-    padding: 2rem;
-    margin-top: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sIYOEHdkQN .card-wrap .content-wrap {
-    padding: 1rem;
-    margin-top: 1rem;
-    margin-bottom: 3rem;
-  }
-}
-.cid-sIYOEHdkQN .occupation {
-  font-size: 1rem;
-  margin-top: 0.5rem;
-  color: #9b9ba5;
-}
-@media (max-width: 600px) {
-  .cid-sIYOEHdkQN .mbr-section-title {
-    letter-spacing: -1px;
-  }
-}
-.cid-sIYOEHdkQN .mbr-section-title {
-  text-align: center;
-}
-.cid-sIYOEHdkQN .card-title,
-.cid-sIYOEHdkQN .social-row {
-  text-align: left;
-}
 .cid-sIYOMvAXpc {
   padding-top: 4.5rem;
   padding-bottom: 4.5rem;
